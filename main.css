@@ -41,7 +41,7 @@
     height:100%;
   }
   .active, .panel:hover {
-    border-color:rgb(52, 149, 165);
+    border-color:rgb(8, 8, 8);
     border-style: solid;
     
   }
@@ -51,14 +51,14 @@
   }
   
   .title {
-    color: rgb(52, 149, 165);
+    color: rgb(0, 0, 0);
     font-family: sans-serif;
     font-weight: bolder;
     padding-top: 10px;
   }
   
   p {
-  color: rgb(52, 149, 165);
+  color: rgb(0, 0, 0);
   font-family: sans-serif;
   font-size: 16px;
   }
