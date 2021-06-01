@@ -16,7 +16,7 @@ In building this dashboard, I created individual pages for each plot and a means
   * The plot/visualization itself for the selected comparison.
   * A paragraph describing the plot and its significance.
 * A ["Comparisons" page](#comparisons-page) that:
-  * Contains all of the visualizations on the same page so it is easy to visually compare them.
+  * Containing all of the visualizations on the same page so it is easy to visually compare them.
   * Uses a Bootstrap grid for the visualizations.
    * The grid is two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
 * A ["Data" page](#data-page) that:
